@@ -22,3 +22,6 @@ The project includes data cleaning, data modeling, DAX analysis, and an interact
 ## Tools Used
 - Power BI
 - DAX
+## Dashboard Preview
+
+![Sales Performance Dashboard](sales-performance-dashboard/dashboard_preview.png)
