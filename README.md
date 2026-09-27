@@ -24,4 +24,4 @@ The project includes data cleaning, data modeling, DAX analysis, and an interact
 - DAX
 ## Dashboard Preview
 
-<img width="1281" height="680" alt="Dashboard_overview" src="https://github.com/user-attachments/assets/f2942848-c1b4-4105-9132-26a8d9afe358" />
+<img width="1293" height="691" alt="Dashboard_overview" src="https://github.com/user-attachments/assets/95413ff8-0bca-4620-aa93-22da3ca384cd" />
